@@ -4037,7 +4037,7 @@ const oct=[
 const data = {
     //labels: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
     datasets: [{
-      label: 'Weekly Sales',
+      label: 'NUMBER OF VISITOR PER COUNTRY',
       data: jan,
       backgroundColor: [
         'rgba(255, 26, 104, 0.2)',
